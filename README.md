@@ -1,12 +1,15 @@
-<<<<<<< HEAD
-# React-Hackathon
-=======
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Preview (Demo) : https://react-login-b50bf.web.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> 06eff69 (Initial commit)
+# React-Hackathon 
+# CountDown Board For Project Management
+A project management tool designed to streamline task organization with a countdown board. The application divides tasks into three sections: To Do, In Progress, and Completed. Features include user authentication, drag-and-drop task management, and task history tracking.
+
+Features:
+User Authentication: Secure login and sign-up.
+Task Management: Add and organize tasks with drag-and-drop functionality.
+Task History Tracking: Keep track of task progress and history.
+Technologies:
+Firebase Firestore
+Material-UI
